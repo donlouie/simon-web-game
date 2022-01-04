@@ -1,36 +1,36 @@
-# simon-web-game
-🎮 Simon Web Game
 
-## ❔ About
+## About The Project
 
-🎮 Simon Web Game, my follow through on Angela Yuu's Full Stack Bootcamp
+Simon Web Game
 
-## 🏗️ Built With
-
-- HTML
-- CSS
-- Javascript
-
-## 🔍 Website Preview
+### 🔍 Image Preview
 
 ![Imgur](https://i.imgur.com/c4hh5cl.png)
 
-## 📝️ Website Features
+### 🏗️ Built With
 
+- HTML5, CSS3, Javascript
 
-## Installing
+<!-- GETTING STARTED -->
 
-Open HTML file to test
+### 📝️Prerequisites
 
-## Running the tests
+### 🛠️ Installation
 
-Run the app with
+Download or create your own copy and run the index.html
 
 ```
-
+git clone
 ```
 
-## Deployment
+<!-- LICENSE -->
 
+## License
 
-## 🧔 Authors
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- CONTACT -->
+
+## Contact
+
+<!-- Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com -->
